@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  new1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-07-24T12:11:36.227996646Z"
+    description: A Helm chart for Kubernetes
+    digest: 914d9970bec1d46b6686807bdc8ec730a131ae7bfeabc667896a210b3995e0b9
+    name: new1
+    urls:
+    - https://github.com/shyla-CT/shyla-repo/releases/download/new1-0.1.0/new1-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-07-24T12:11:35.942339471Z"
